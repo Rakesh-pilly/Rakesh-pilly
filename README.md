@@ -14,3 +14,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakesh-pilly&show_icons=true&locale=en" alt="rakesh-pilly" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakesh-pilly&" alt="rakesh-pilly" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshpilly&" alt="rakesh-pilly" /></p>
+
